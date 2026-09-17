@@ -244,4 +244,4 @@ This repository serves as the official landing page for Code::Blocks. The softwa
 **Get the most recent version of Code::Blocks today!**
 
 ---
-**Last updated:** 2026-09-17 20:51:56 UTC
+**Last updated:** 2026-09-17 23:19:44 UTC
